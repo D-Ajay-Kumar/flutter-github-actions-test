@@ -49,7 +49,7 @@ jobs:
       - uses: actions/upload-artifact@v1
         with:
           name: ios-app
-          path: /Users/runner/work/build/ios/iphoneos
+          path: /Users/runner/work/flutter-github-actions-test/flutter-github-actions-test/build/ios/iphoneos
 
   build_appbundle:
     name: Build Flutter (Android)
