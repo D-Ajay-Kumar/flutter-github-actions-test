@@ -4,10 +4,7 @@ void main() {
   runApp(MyApp());
 }
 
-// new Comment
-// another new comment
-// this is getting out of hand
-// raining comments
+// lol
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
