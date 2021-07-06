@@ -37,7 +37,7 @@ jobs:
       - uses: actions/upload-artifact@v1
         with:
           name: ios-app
-          path: build/ios/archive/MyApp.xcarchive
+          path: 
 
   build_appbundle:
     name: Build Flutter (Android)
